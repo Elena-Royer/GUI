@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 #README
-.md
+*.md
 
 # Distribution / packaging
 .Python
